@@ -10,4 +10,4 @@ TBD
 
 Asio kuvaus
 
-[target_url=https://github.com/JAMK-IT/IIO12200-ohjelmistoprojekti/wiki]
+[target_url=http://jamk-it.github.io/IIO12200-ohjelmistoprojekti/]
