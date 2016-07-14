@@ -1,4 +1,4 @@
-IIO12110 Ohjelmistotuotannon käytännöt
+IIO12200 Ohjelmistoprojekti 
 
 Kurssin sisältö
 
