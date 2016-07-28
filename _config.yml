@@ -35,6 +35,6 @@ social:
   - title: asio
     url: https://asio.jamk.fi/pls/asio/asio_ectskuv1.kurssin_ks?ktun=IIO12200&knro=&noclose=%20&lan=e
     icon: fa fa-file fa-fw
-  - title: tilaajaksi?
+  - title: Toimeksiantajaksi?
     url: https://github.com/JAMK-IT/IIO12200-ohjelmistoprojekti/wiki/info-projektin-tilaajalle
     icon: fa fa-file fa-fw
